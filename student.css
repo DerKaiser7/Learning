@@ -1,0 +1,55 @@
+.form-group{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+body{
+    background-color: #ccc;
+}
+
+.container{
+    padding-top: 40px;
+}
+
+h2{
+    text-align: center;
+    font-family: arial;
+    font-size: 40px
+}
+
+.signup-form {
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 30px;
+    background-color: #fff
+}
+
+.signup-form input {
+    width: 90%;
+    height: 40px;
+    padding: 0px 5%;
+    margin-bottom: 5px;
+    border: none;
+    background-color: #fff;
+    font-family: arial;
+    font-size: 16px;
+    color: #111;
+    line-height: 40px;
+}
+
+.signup-form button {
+    display: block;
+    width: 30%;
+    height: 40px;
+    margin: 0 auto;
+    border: none;
+    background-color: #222;
+    font-family: arial;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.signup-form button:hover {
+    background-color: #111;
+}     
